@@ -1,0 +1,14 @@
+.item ul{
+    display: none;
+    background-color: white;
+    color: black;
+}
+.item ul li {
+    text-decoration: none;
+}
+.item {
+    background-color: black;
+    color: white;
+    width: 20%;
+    margin: 1px;
+}
